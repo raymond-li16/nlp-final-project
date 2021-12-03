@@ -1,0 +1,59 @@
+Here's what to do when you run out of space on your Gmail account
+Ken ColburnSpecial for The Republic
+
+
+
+
+
+
+Question: I’m running out of space on my free Gmail account and deleted a bunch of messages, but it didn’t seem to make much of a difference. Help!
+
+Answer: Despite Gmail’s generous 15 GB of free storage, it can fill up quickly without regular maintenance.
+
+If you haven’t done much in the past to keep the clutter from building up, there are a number of places where you can free up valuable storage space.
+
+To see how much space you are using, scroll to the bottom of the list of messages in your Inbox and look in the right portion of the section.
+
+The graph and numbers will give you a quick picture of your current status and will help you see which of the following frees up the most space.
+
+Trash
+The Trash folder is designed to automatically delete items that are more than 30 days old, but if you recently went on a mass deletion binge and didn’t see much space free up, it’s probably still sitting in the Trash Folder.
+
+At the top of the folder, there will be an option to "Empty Trash now" in blue, which will free up the space being taken by the items you thought you got rid of.
+
+Categories
+Gmail uses an automatic organizing process that sorts incoming messages into categories:
+
+Primary: Emails from people you know (and messages that don’t appear in other tabs).
+Social: Messages from social networks and media-sharing sites.
+Promotions: Deals, offers, newsletters and other “call to action” emails.
+Updates: Notifications, confirmations, receipts, bills and statements.
+Forums: Messages from online groups, discussion boards and mailing lists.
+Your stories live here.
+Fuel your hometown passion and plug into the stories that define it.
+Create Account
+I’d start with the "Social" category, which is essentially notifications, and items related to your social media accounts, that for most can be deleted en masse.
+
+To do this, click on the blank square above the word "Primary" which will put a checkmark in every message on the current screen.  If there are more messages than what will fit on your first screen, the option to "Select All XXX conversations in Social" will appear in blue at the top.
+
+This will select every message in the Social category, which can be deleted at once by clicking on the Trash icon at the top.
+
+In Phoenix area, 2 out of 5 kids risk a DCS call
+Is there a Christmas tree shortage in Phoenix?
+Thanksgiving weekend saw more extreme DUIs than in past 2 years
+Some Arizona districts plan to make face masks optional
+Warning!
+Make sure that there are no important messages in the Social category and that you double-check to make sure you are in the "Social" folder.  If you’re not paying attention, you may accidentally delete messages from the wrong category.
+
+If there are a large number of messages to be deleted, be patient as it can take some time to complete.
+
+You can likely do the same with the Promotions and Forums categories but I’d be careful with "Updates" as it’s more likely to contain items that you want to keep.
+
+Finding Large Messages
+The quickest way to selectively delete large messages is by clicking on the slider controls icon in the right side of the "Search mail" box.
+
+This is where you can filter your messages by those that have attachments, are larger than a specific size or by any of the parameters in the search option page.
+
+No matter which approach you take, don’t forget to go to the Trash folder afterward to "Empty Trash now" in order to free up the space.
+
+Ken Colburn is founder and CEO of Data Doctors Computer Services, datadoctors.com. Ask any tech question at facebook.com/DataDoctors or on Twitter @TheDataDoc.
