@@ -1,0 +1,43 @@
+Omicron possibly more infectious because of ties to common cold coronavirus, study says
+December 6, 2021 | The Washington Post
+KEYWORDS CORONAVIRUS OUTBREAK / DISEASES / HEALTH CARE / HEALTH CARE & INSURANCE / PUBLIC HEALTH
+COMMENTS
+PRINT
+GET THE LATEST IBJ NEWS IN YOUR INBOX
+FREE NEWSLETTERS
+RELATED STORIES
+Pandemic stress weighs heavily on Gen Z, poll finds
+December 6, 2021
+Health officials says early reports encouraging about omicron
+December 6, 2021
+House GOP again tries to expedite bill to limit vaccine mandates, will hold hearing on Dec. 16
+December 3, 2021
+Walgreens, VillageMD make health clinic push
+December 3, 2021
+Study suggests past COVID infection may not fend off omicron
+December 3, 2021
+The omicron variant is likely to have picked up genetic material from another virus that causes the common cold in humans, according to a new preliminary study, prompting one of its authors to suggest omicron could have greater transmissibility but lower virulence than other variants of the novel coronavirus.
+
+Researchers from Nference, a Cambridge, Mass.-based firm that analyzes biomedical information, sequenced omicron and found a snippet of genetic code that is also present in a virus that can bring about a cold. They say this particular mutation could have occurred in a host simultaneously infected by SARS-CoV-2, also known as the novel coronavirus, and the HCoV-229E coronavirus, which can cause the common cold. The shared genetic code with HCoV-229E has not been detected in other novel coronavirus variants, the scientists said.
+
+The study is in preprint and has not been peer-reviewed.
+
+The “striking” similarity between omicron and HCoV-229E could have made the former “more accustomed to human hosts” and likely to evade some immune system responses, said Venky Soundararajan, a biological engineer who co-wrote the study.
+
+“By virtue of omicron adopting this insertion . . . it is essentially taking a leaf out of the seasonal coronaviruses’ page, which [explains] . . . how it lives and transmits more efficiently with human beings,” he said.
+
+Researchers have established that SARS-CoV-2, which is responsible for the COVID-19 disease, can infect patients who are also afflicted by other coronaviruses. Cells in lungs and gastrointestinal systems could host both types of viruses, said Soundararajan, possibly leading to an exchange in genetic material.
+
+The U.S. Centers for Disease Control and Prevention says health experts are studying how often patients simultaneously suffer from COVID and other respiratory illnesses.
+
+While much remains unknown about omicron, health experts are worried that its many mutations could make it far more transmissible than variants such as delta. In South Africa, the country’s National Institute for Communicable Diseases said Wednesday that omicron overtook other virus variants in November, accounting for 74 percent of the genomes sequenced last month.
+
+Delta had previously been dominant in that country, where daily infection numbers have roughly quadrupled in the last four days. Anthony S. Fauci, the top U.S. infectious-diseases expert, told Bloomberg TV Friday that it was “comforting but not definitive” that the rapid increase in South Africa’s caseload has not yet been followed by a comparable surge in hospitalizations, adding that there could be a time lag.
+
+Nference researchers last year sequenced the novel coronavirus and found that part of its genetic code “mimics” a protein that helps regulate salt and fluid balance in the human body. That development aided efforts to design drugs that combat viral transmission.
+
+As a virus evolves to become more transmissible, it generally “loses” traits that are likely to cause severe symptoms, Soundararajan said. But he noted that much more data and analysis of omicron was needed before a definitive determination could be made, adding that unequal distribution of vaccines globally could lead to further mutations of the coronavirus.
+
+As Fauci warned Friday that there was “absolutely . . . community spread” in America, President Biden said the United States must support global efforts to stop the spread of the coronavirus, especially as new variants emerge, “in order to beat COVID” at home.
+
+“Look what’s happened … We’re starting to make some real progress, and you find out there’s another strain,” Biden added, noting that his administration had shipped millions of vaccines worldwide to people in need.

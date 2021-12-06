@@ -1,0 +1,43 @@
+Cyberdome: Institute for Pervasive Cybersecurity launches new cybersecurity initiative
+By Kelby Andrew
+0
+1
+Share
+Photo by Claire Keener
+As the second-fastest growing state in the country, Idaho is experiencing the pains of rapid population growth. However, one vital issue remains largely unseen by the public eye: rising cybersecurity threats. 
+
+With Idaho quickly becoming a hub for economic and technological growth, the state is seeking to establish itself as a leader in innovative cybersecurity. Boise State was quick to hop on the bandwagon.
+
+Last year, Boise State launched the Institute for Pervasive Cybersecurity (IPC), whose goal is to “facilitate strategic partnerships between industry, higher education and government to improve cybersecurity for the state and the nation.” 
+
+Ed Vasko, director of the IPC, cites the “phenomenal amounts of growth” within the cybersecurity industry. The Treasure Valley in particular has experienced heavy industry growth, making it a big attraction point for cybercriminals. 
+
+However, cyberattacks aren’t limited to Idaho’s rich, bustling cityscapes. In fact, the state’s rural and underserved communities may be the most vulnerable.
+
+Boise State University Computer Science building
+[Photo of the Computer Science building on Boise State campus]
+Photo by Claire Keener | The Arbiter
+“There’s an old adage in the cybersecurity industry: ‘the weakest link is always the place of attack,’” Vasko said. “Our rural and underserved communities, because they don’t have the expertise … they oftentimes have systems that are exposed and easily attackable. What you end up creating is an opportunity for cybercriminals to come in … and essentially [shut] down key services throughout cities and counties across the nation.” 
+
+Vasko explains that cybercriminals often seek “monetizable elements” when coordinating attacks. While these smaller Idaho communities may not always possess the critical data at the center of these attacks, communication between these communities and the state can create open access to more sensitive information — positioning these areas as backdoor entrances for heavily guarded state systems. 
+
+“Through that interweb of trust that exists at the city, county and state level, [cybercriminals are] now able to come back in through that and attack more urban environments and the state itself,” Vasko said.
+
+One way Boise State plans to address this issue is by using Idaho’s academic institutions as a pipeline for creating a cybersecurity-ready workforce. According to Vasko, approximately 1,700 cybersecurity positions remain unfilled across the state, with 1,100 of those jobs residing in the Treasure Valley area. 
+
+This summer, the IPC was awarded $700,000 by the Idaho Global Entrepreneurial Mission’s Higher Education Research Council to establish the Cyberdome, a platform that will address labor shortages in the cybersecurity industry, minimize attack risks across the state, and activate “a more strategic, cyber-specific technology ecosystem,” as stated by Vasko.
+
+As part of the Cyberdome initiative, Boise State is promoting competency-based learning by giving students real-world interaction and experience within the cybersecurity industry. 
+
+“The Cyberdome is meant to be that last piece, that piece that moves beyond simulation and beyond the classroom,” Vasko said. “Let’s take a student and give them the right level of knowledge … so that when they go out and start their career, they are able to sit down in a seat, knowing how to interact with the tools and techniques and processes that they’re going to have to leverage to be an appropriate, effective cyber professional.” 
+
+Isaac Bard is a senior computer science major working on the Cyberdome platform. According to Bard, he appreciates the immersive curriculum promoted by Vasko and hopes to see this approach to education reflected within other departments at Boise State. 
+
+“[Vasko] is advocating for a way of teaching and practical learning that is so much more directly impactful,” Bard said. “There’s not enough of this style of learning, where it’s hands-on, get dirty … it has been huge for me for getting a taste of what the industry would be like, way more than anything else I’ve done.” 
+
+Despite increasing cyber threats, Bard still remains optimistic for the future of the cybersecurity industry. 
+
+“The idea that, you know, we’re never gonna have enough people to fill the shoes and fix all the problems can be scary to some,” Bard said, “but it just leaves a ton of opportunity for growth and new things to learn, and new challenges to tackle in the future more than anything else in my mind.”
+
+0
+1
