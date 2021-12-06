@@ -1,0 +1,67 @@
+
+How to search our database for Herkimer-area police misconduct records
+Sean Lahman
+Times Telegram
+
+
+
+
+
+
+
+New York police disciplinary records had long been shielded from public view, not subject to disclosure under the state's Freedom of Information laws. That changed in June 2020, when the state legislature repealed Section 50-a of the state's Civil Rights Law, which had long been used repeatedly and extensively to keep them from being released.
+
+The USA Today Network and partners filed requests with every police agency in the state, and the results are presented in our database of police disciplinary records.
+
+This database uses records acquired under New York's Freedom of Information laws along with those collated from records available on some New York police department websites. Our analysis has shown that some publicly available records are incomplete and omit reference to serious reported incidents.
+
+Many of New York's 500 police agencies have not provided documents in response to FOIL requests for access to those records and may not return a result in search. We continue to update this database as those records are released.
+
+The records that have been accessed provide a greater understanding of patterns of officer behaviour within departments and insight into what constitutes internal disciplinary proceedings. In some notable cases, unresolved issues with certain officers have resulted in serious threats to public safety. In other instances where full personnel files have been provided, there are instances of bravery and selflessness.
+
+Police department records are public record in a dozen states, and remain restricted or unavailable in the remaining instances, according to reporting by the Associated Press and the Pulitzer Center on Crisis Reporting. 
+
+Here are some tips and tricks for finding documents in the database. In the case of the village of Herkimer, the Times Telegram parent company Gannett Co. is taking legal action against the village of Herkimer to gain access to the records.
+
+More:Gannett takes legal action to secure Herkimer police disciplinary records
+
+Search: Database of police disciplinary records
+
+Can't find your department?:Find out how you can support this effort.
+
+How to search the database
+Searching the database will return two sets of results. First will be a list of individual records that match your search criteria. Second are additional details about which agencies have responded to FOIL requests for documents.  The following illustrates some common ways to use the database.
+
+Search by location
+Normally, a search for "Herkimer County" will return a list of all of the available disciplinary reports obtained from police agencies in the county. They appear in chronological order, based on the date of the incident. The results summarize each report, listing the type of incident that occurred, the officer involved, and the outcome of the disciplinary process, if known. To view the full report, click on the officer's name, and the document will appear on a new page.
+
+Below that will be a list of each police agency in the county and the status of their response to our FOIL request.  Agencies that have not provided any disciplinary reports are marked in red, with some detail about the nature of their response. Some agencies have denied the FOIL request for a variety of reasons. Some have simply not responded.
+
+Why we're publishing police disciplinary records and fighting for more
+What was Section 50-a? What to know about access to police records
+What has been learned from police disciplinary records? A lot
+Many police departments ignored requests for public records. Is yours on the list?
+Viewing disciplinary reports
+Clicking on a police officer's name in the list of results will bring up a new page with that specific disciplinary report.  An overview of the report is provided at the top, with the full contents of the document below that.  
+
+You can view the document on the page, or download a copy of the document in PDF format. You can also use the search tool to look for keywords within the document itself.
+
+Other searches
+You can search the database by entering any keywords.  The use of quotation marks or operators (eg, "and") is not necessary.  Some examples:
+
+Search by town or police agency: "Herkimer", search by officer name, serach by date of incident, or search by type of incident: "reckless driving", for example. 
+
+Because there is no standard format for disciplinary incident reports across departments, we've include a broad range of keywords as make sense and to provide reasonable summaries of the event.
+
+Additional status notes
+This section provides much more detailed information on the nature of the response received from and agency, so users of the database are encouraged to consult this section.
+
+No responsive records
+An agency that returns a search result of "No Responsive Records", may also have destroyed the records, which can be permissible under the state's guidelines for record retention.
+
+Unsubstantiated claims
+A returned search result for an individual officer is not necessarily confirmation that the officer was involved in misconduct. Some departments have supplied more complete records that include instances where allegations against an officer were investigated, and the outcome found in favor of the officer involved. These examples are known as "unsubstantiated claims." Not all departments provid them, but they have been included in the results if available. 
+
+Contact staff reporter Sean Lahman at slahman@gannett.com. Follow him on Twitter @seanlahman. Thanks to our subscribers for supporting quality local journalism. If you aren’t a subscriber, please consider a digital subscription.
+
+
