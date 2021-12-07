@@ -1,0 +1,34 @@
+Cybersecurity and farming
+Lynn Mizner Dec 4, 2021  0
+Facebook
+Twitter
+Email
+Print
+Save
+Are high tech farming techniques putting food production at risk?
+
+What are the aspects of modern farming that have been touched the most by artificial intelligence, geographic information systems and other digital systems that make them vulnerable to cyber attack?
+
+In recent months and years, food processing and distribution have been in the news most frequently as being vulnerable to cyber attack.
+
+ According to a recent article published in Minnesota Monthly, the state’s agricultural systems are the most vulnerable to cyber attack of its major industries.
+
+The Colonial pipeline, the multi-national meat producer JBS and the Crystal Valley farm supply coop in Mankato are among the ag businesses that were recently attacked by cyber criminals.
+
+According to John Hoffman, a senior research fellow at the Food Protection and Defense Institute at the University of Minnesota, the attack on JBS has continued to reverberate throughout the sector.
+
+Besides processing, transportation and online purchasing, the aspects of food production that are vulnerable are supply chain disruption (seed, fertilizer, machine parts, fuel and computer components), financing and delivery.
+
+IEEE Spectrum, a technology publication for IT insiders, published a report in March of 2021 stating that the very technological advancements that make “smart farms” internet connected also make them “hackable.”
+
+The report says that the cost of smart agriculture (also known as Ag 4.0), which is billed as being able to help feed 8.5 billion by 2030 may be its broad vulnerability to cyber-security threats.
+
+Automated food production, increased efficiency, more powerful data analysis, automation and automated decision-making are some of the attributes of Ag 4.0. However, the security issues around this kind of agriculture have not been extensively studied, potentially leaving those 8.5 billion people stranded and hungry if the system is held for ransom by cyber criminals.
+
+Is there an alternative?
+
+In 2009, David Abasz of Finland, Minnesota led a U of M project called The Superior Food Compact.  Abasz and his students conducted research that demonstrated that the counties in the Arrowhead Region of Minnesota could produce, forage or harvest about 90% of the food needed in the region.
+
+Other research has shown that a high percentage of the food produced in the world is grown on small farm and garden plots using human scale agriculture.
+
+If every community collaborated to intentionally produce the kinds of food it wanted to consume, that would be a significant counter measure to the potential disruption of food supply by cyber terrorists. It would also potentially produce better quality, fresher food for communities, their schools, elders and health care facilities. Give that some thought.
